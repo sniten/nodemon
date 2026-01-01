@@ -51,7 +51,7 @@
     "jscs": "^3.0.7",
     "mocha": "^2.5.3",
     "proxyquire": "^1.8.0",
-    "semantic-release": "^8.2.3",
+    "semantic-release": "^25.0.2",
     "should": "~4.0.0"
   },
   "dependencies": {
